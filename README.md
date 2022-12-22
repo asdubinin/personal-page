@@ -8,4 +8,4 @@ My contacts: <asdubinin@mail.ru>
 
 Let's change this world better!
 
-![Фото](C:\Users\British_Mate\Desktop\Git\personal-page\img_foto.jpg)
+![Фото](https://cs8.pikabu.ru/post_img/2016/01/15/11/1452887391233286554.jpg)
